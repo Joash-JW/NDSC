@@ -1,0 +1,9 @@
+# ignore content of these folders
+Workshop/
+.ipynb_checkpoints/
+
+
+# Packages #
+*.csv
+*.zip
+*.json
